@@ -1,12 +1,14 @@
 # [LeetCode](https://leetcode-cn.com/problemset/all/)
 
 ## 队列、栈、堆
++ [x] 151. 字符串反转
 + [x] [155. 最小栈](./src/155/README.md)
-+ [ ] [224. 用队列实现栈](./src/224/README.md)
+<!-- + [ ] [224. 用队列实现栈](./src/224/README.md) -->
 + [x] [225. 用队列实现栈](./src/225/README.md)
 
 ## 链表
 + [x] [138. 复制带随机指针的链表](./src/138/README.md)
++ [ ] [206. 反转链表](./src/206/README.md)
 
 ## 二分
 
