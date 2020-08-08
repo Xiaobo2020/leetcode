@@ -1,9 +1,13 @@
 # [LeetCode](https://leetcode-cn.com/problemset/all/)
 
 ## 队列、栈、堆
+What Is Stack Data Structure?
+
+Stack is an abstract data type with a bounded(predefined) capacity. It is a simple data structure that allows adding and removing elements in a particular order. Every time an element is added, it goes on the top of the stack and the only element that can be removed is the element that is at the top of the stack, just like a pile of objects.
+
 + [x] 151. 字符串反转
 + [x] [155. 最小栈](./src/155/README.md)
-<!-- + [ ] [224. 用队列实现栈](./src/224/README.md) -->
++ [ ] [224. 基本计算器](./src/224/README.md)
 + [x] [225. 用队列实现栈](./src/225/README.md)
 
 ## 链表
